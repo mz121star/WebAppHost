@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\WebAppHost\bin\Debug\WebAppHost.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\WebAppHost\bin\Debug\WebAppHost.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\WebAppHost\obj\Debug\WebAppHost.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\WebAppHost\obj\Debug\WebAppHost.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\WebAppHost\obj\Debug\WebAppHost.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\WebAppHost\obj\Debug\WebAppHost.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\WebAppHost\obj\Debug\WebAppHost.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\WebAppHost\obj\Debug\WebAppHost.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configs>
+  <!--应用程序配置节点-->
+  <appconfig>
+    <title>football</title>
+  </appconfig>
+  <!--命令配置（程序启动要执行的命令）-->
+  <cmdconfig>
+    <runcommand>node app.js</runcommand>
+    <browserurl>http://localhost:3000</browserurl> 
+  </cmdconfig>
+</configs>
