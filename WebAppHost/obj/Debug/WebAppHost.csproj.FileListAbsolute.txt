@@ -6,3 +6,15 @@ c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\WebAppHo
 c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\WebAppHost\obj\Debug\WebAppHost.csproj.GenerateResource.Cache
 c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\WebAppHost\obj\Debug\WebAppHost.exe
 c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\WebAppHost\obj\Debug\WebAppHost.pdb
+E:\WebAppHost\WebAppHost\bin\Debug\WebKitBrowser.dll.manifest
+E:\WebAppHost\WebAppHost\bin\Debug\WebAppHost.exe
+E:\WebAppHost\WebAppHost\bin\Debug\WebAppHost.pdb
+E:\WebAppHost\WebAppHost\bin\Debug\WebKitBrowser.dll
+E:\WebAppHost\WebAppHost\bin\Debug\WebKit.Interop.dll
+E:\WebAppHost\WebAppHost\bin\Debug\WebKitBrowser.pdb
+E:\WebAppHost\WebAppHost\obj\Debug\WebAppHost.csprojResolveAssemblyReference.cache
+E:\WebAppHost\WebAppHost\obj\Debug\WebAppHost.Form1.resources
+E:\WebAppHost\WebAppHost\obj\Debug\WebAppHost.Properties.Resources.resources
+E:\WebAppHost\WebAppHost\obj\Debug\WebAppHost.csproj.GenerateResource.Cache
+E:\WebAppHost\WebAppHost\obj\Debug\WebAppHost.exe
+E:\WebAppHost\WebAppHost\obj\Debug\WebAppHost.pdb

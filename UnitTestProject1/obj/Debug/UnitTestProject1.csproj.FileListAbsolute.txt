@@ -6,3 +6,15 @@ c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\UnitTest
 c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 c:\users\administrator\documents\visual studio 2012\Projects\WebAppHost\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
 C:\Users\Administrator\documents\visual studio 2012\Projects\WebAppHost\UnitTestProject1\bin\Debug\config.xml
+E:\WebAppHost\UnitTestProject1\bin\Debug\WebKitBrowser.dll.manifest
+E:\WebAppHost\UnitTestProject1\bin\Debug\config.xml
+E:\WebAppHost\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\WebAppHost\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\WebAppHost\UnitTestProject1\bin\Debug\WebAppHost.exe
+E:\WebAppHost\UnitTestProject1\bin\Debug\WebKitBrowser.dll
+E:\WebAppHost\UnitTestProject1\bin\Debug\WebKit.Interop.dll
+E:\WebAppHost\UnitTestProject1\bin\Debug\WebAppHost.pdb
+E:\WebAppHost\UnitTestProject1\bin\Debug\WebKitBrowser.pdb
+E:\WebAppHost\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\WebAppHost\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\WebAppHost\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

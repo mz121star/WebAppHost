@@ -49,7 +49,21 @@ namespace WebAppHost
             object o = command;
             mythread.Start(o);
             // cmd.RunCmd(command,0);
-            webBrowser1.Url = new Uri(xmlHelper.SelectNodeText(ConfigPath.BrowserUrl));
+            string gourl = xmlHelper.SelectNodeText(ConfigPath.BrowserUrl);
+            webBrowser1.Url = new Uri(gourl);
+            webKitBrowser1.Navigate(gourl);
+        }
+
+        private void iEToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            webBrowser1.Visible = true;
+            webKitBrowser1.Visible = false;
+        }
+
+        private void webkitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            webKitBrowser1.Visible = true;
+            webBrowser1.Visible = false;
         }
     }
 }
